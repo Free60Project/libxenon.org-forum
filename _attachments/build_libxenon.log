@@ -1,0 +1,5 @@
+make: entrant dans le répertoire « /opt/free60-git/free60/libxenon/ports/xenon »
+[crti.s]
+make: xenon-gcc : commande introuvable
+make: *** [crti.o] Erreur 127
+make: quittant le répertoire « /opt/free60-git/free60/libxenon/ports/xenon »
