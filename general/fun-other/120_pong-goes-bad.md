@@ -5,4 +5,4 @@
 This is what happens when a pong game goes bad ;D  
    
    
- [align=center][youtube]http://www.youtube.com/watch?v=6Xky\_IlZiqM&NR=1[/youtube][/align]
+ [align=center][youtube]http://www.youtube.com/watch?v=6Xky_IlZiqM&NR=1[/youtube][/align]
